@@ -1,5 +1,4 @@
-        <!-- THIS IS THE CSS !-->
-        <style>
+
             /* user styles */
 
             /* styles are what change the color and sizes of stuff on your site. */
@@ -8,7 +7,7 @@
     these tended to confuse some people, so I only kept 
     the images as variables */
 
-            :root {
+   /*commented :root for now!         :root {
                 --header-image: url('https://sadhost.neocities.org/images/layouts/wp.jpeg');
                 --body-bg-image: url('https://sadhost.neocities.org/images/tiles/purplesky.gif');
 
@@ -262,4 +261,3 @@
                     flex-wrap: wrap;
                 }
             }
-        </style>
